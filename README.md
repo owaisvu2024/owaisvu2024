@@ -11,7 +11,8 @@ I am a Computer Science student and backend developer passionate about building 
 
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-](mailto:ok7435570@gmail.com) 
+](mailto:ok7435570@gmail.com)
+
 
 # 💻 Tech Stack:
 
