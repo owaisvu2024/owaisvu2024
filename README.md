@@ -1,5 +1,4 @@
 # 💫 Hi there, I'm Owais! 👋
-# 💫 About Me:
 I am a Computer Science student and backend developer passionate about building solid, real-world systems. I enjoy solving complex problems and turning them into clean, working code.<br><br>💻 Languages & Tools: Java, C++, MySQL, Spring Boot, Spring Security (JWT), Spring Data JPA<br>🧠 Core Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Design<br>🚀 Recent Project: Built a Hospital Management System — a Spring Boot REST API with JWT authentication, multiple entity relationships (One-to-One, One-to-Many, Many-to-Many), and centralized exception handling.<br>🎯 Goal: To become a skilled Backend Developer and contribute to scalable, production-ready systems.<br><br>I'm always learning — currently sharpening my DSA skills and exploring role-based authorization in Spring Security!
 
 
@@ -37,45 +36,6 @@ I am a Computer Science student and backend developer passionate about building 
  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.shion.dev/api?username=owaisvu2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<br><br/>
-
-
-![](https://streak-stats.demolab.com/?user=owaisvu2024&theme=dark&hide_border=false)
-
-<br><br/>
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=owaisvu2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-### 🔝 Top Contributed Repo
-
-
-![](https://github-contributor-stats.vercel.app/api?username=owaisvu2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
----
-[
-
-![](https://komarev.com/ghpvc/?username=owaisvu2024&icon=0&color=0)
-
-]
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.shion.dev/api?username=owaisvu2024&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
